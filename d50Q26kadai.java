@@ -1,3 +1,6 @@
+// s23022
+//d50Q26の課題
+
 enum Condition {
     ROAD, MUD, SNOW
 }
